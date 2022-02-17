@@ -10,4 +10,4 @@ The data input should be an 8 Bit .wav file.
 It gives the encrypted as well as decrypted .wav and .mp3 files as output.                                                                                                          To run the code, initially make sure you have the requirements satisfied by running the following command in your terminal:                                                         
 pip install -r requirements.txt                                                                                                                                                     
                                                                                                                                                                                    
-                                                                                                                                                                                   Then run the main.py file in your editor.
+Then run the main.py file in your editor.
