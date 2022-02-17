@@ -11,4 +11,4 @@ It gives the encrypted as well as decrypted .wav and .mp3 files as output.      
 pip install -r requirements.txt                                                                                                                                                     
                                                                                                                                                                                    
 Then run the main.py file in your editor.                                                                                                       
-Samples like tom.wav, symphony.wav and howyoudoin.wav have been uploaded to test the code.
+Samples like tom.wav and howyoudoin.wav have been uploaded to test the code.
